@@ -1,6 +1,6 @@
 ## Cloud Computing for Data Analysis: Movie Recommendation System
 
-<img src="images/Emoticons/205.jpg" class = "inline"/>
+<img src="Images/Emoticons/205.jpg" class = "inline"/>
 
 #### Authors:
 
