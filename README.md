@@ -7,7 +7,6 @@
 * Aditya Gupta (agupta42@uncc.edu) 
 * Rekhansh Panchal (rpanchal@uncc.edu)
 
-Group 11
 
 ***
 
