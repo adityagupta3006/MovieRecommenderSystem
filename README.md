@@ -73,7 +73,7 @@ Input Movie Title file cotains: movie_id, year_of_release, movie_title
 
 #### Algorithm:
 ##### 1. Pearson Correlation Coefficient
-<img src="images/Emoticons/PearsonFormula.PNG" class = "inline"/>
+<img src="Images/Emoticons/PearsonFormula.PNG" class = "inline"/>
 
 * We achieved movie recommendation results by calculating the Pearson Correlation Coefficient and thereby similarity between users based on the movies they watched and gave similar ratings.
 * The coefficient value range from -1 to 1. Where -1 and 1 indicate a negative and positive correlation respectively.
@@ -82,7 +82,7 @@ Input Movie Title file cotains: movie_id, year_of_release, movie_title
 
 
 ##### 2. Alternative Least Squares
-<img src="images/Emoticons/ALSFormula.PNG" class = "inline"/>
+<img src="Images/Emoticons/ALSFormula.PNG" class = "inline"/>
 
 * When we make the user-item matrix, we decompose into an lower dimensional matrix of user factors and item factors using Matrix Factorization.
 * These lower dimension matrices are used to estimate the ratings by minimizing the cost function.
@@ -102,7 +102,7 @@ Input Movie Title file cotains: movie_id, year_of_release, movie_title
 
 * Apache Spark
 
-<img src="images/Emoticons/spark-logo.png" class = "inline"/>
+<img src="Images/Emoticons/spark-logo.png" class = "inline"/>
 
 
 #### Expectations/Aspects
