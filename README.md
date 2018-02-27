@@ -175,16 +175,16 @@ The programs to recommend were ran on Amazon EC2 Spark cluster. And satisfactory
 
 * Pearson Correlation Coefficient implementation.
 
-<img src="images/Emoticons/PCS.png" alt ="Pearson Correlation Coefficient Recommendation" class = "inline"/>
+<img src="Images/Emoticons/PCS.png" alt ="Pearson Correlation Coefficient Recommendation" class = "inline"/>
 
 * ALS implementation.
 
-<img src="images/Emoticons/ALS.png" alt ="Alternating Least Squares Recommendation" class = "inline"/>
+<img src="Images/Emoticons/ALS.png" alt ="Alternating Least Squares Recommendation" class = "inline"/>
 
 
 * ALS from ml Recommendation.
 
-<img src="images/Emoticons/ALSUsingLibrary.png" alt ="ALS from ml Recommendation" class = "inline"/>
+<img src="Images/Emoticons/ALSUsingLibrary.png" alt ="ALS from ml Recommendation" class = "inline"/>
 
 ##### Root Mean Square Error: 2.015
 
@@ -213,7 +213,7 @@ The programs to recommend were ran on Amazon EC2 Spark cluster. And satisfactory
 
 * Pearson Calculation
 
-<img src="images/Emoticons/PCSSnippet.png" class = "inline"/>
+<img src="Images/Emoticons/PCSSnippet.png" class = "inline"/>
 
 ***
 
